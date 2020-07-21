@@ -1,0 +1,78 @@
+.backgroundImage{
+background: url("/images/working");
+background-size: cover;
+height: 100vh;
+background-color: skyblue;
+}
+.purple-color{
+color:#8845f4;
+}
+body{
+font-family:sans-serif;
+color: black; 
+line-height:26px;
+background-color: orange;
+}
+.gfont{
+font-family: url("/fonts/futuralightfont.ttf");
+}
+.half-width{
+width: 70%;
+float: left;
+}
+.half-width1{
+width: 30%;
+float: left;
+}
+.side-img{
+width: 100%;
+padding-left:10%;
+padding-right:10%;
+padding-top: 20%;
+}
+.primary-btn{
+color:white;
+background-color: #8845f4;
+padding: 10px 10px 10px 10px; 
+border-radius: 20px;
+style-decoration:none;
+}
+h1{ 
+font-size:3em;
+line-height: 150%;
+}
+.container{
+padding-left:5%;
+display:inline-block;
+}
+a{ 
+line-height: 40px;
+}
+.center{
+text-align: center;
+}
+.experiences{
+padding:30px;
+margin: 30px;
+border-radius: 20px;
+background-color: rgb(238, 251, 255,0.5);
+}
+.experience-item{
+padding:10px;
+border-left: solid rgba(137, 130, 247, 0.2);
+}
+.cert{
+width: 12%;
+height: 8em;
+}
+p {
+color: black;
+}
+.blue{
+color:blue;}
+.red{
+color:red;}
+.yellow{
+color:yellow;}
+.green{
+color:green;}
